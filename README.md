@@ -48,6 +48,16 @@ Install my-project with npm
 - Button:
   - A "Get" button to fetch weather data.
 ## Screenshots
+![Bengaluru](https://github.com/SPGupta18/Weather_Information_using_Python/assets/157946096/e91abed7-7151-407f-86fb-11ed3d47cd6b)
+![Delhi](https://github.com/SPGupta18/Weather_Information_using_Python/assets/157946096/6da5982d-4918-4fab-b51a-e01c319d6d7b)
+![Kolkata](https://github.com/SPGupta18/Weather_Information_using_Python/assets/157946096/094adf1a-1e74-423a-b44f-7fe20d41ff20)
+![Mumbai](https://github.com/SPGupta18/Weather_Information_using_Python/assets/157946096/20f00711-a988-4e61-be0a-c4c8a30e73d6)
+
+
+
+
+
+
 
 
 
